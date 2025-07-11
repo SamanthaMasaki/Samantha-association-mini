@@ -2,10 +2,14 @@
 ASSOCIATION MINI PROJECT
 #SIMULATE TRANSACTION DATA
 I created a list of furniture items. Then I debugged the code to lock the randomness for repeatability, and created an empty list for customers who come in and make a purchase.
+
 The process runs 10 times, simulating a customer making purchases of 2 to 5 random items.
+
 Finally, I performed indexing for efficiency.
 ![alt text](image.png)
 Because of random.seed(42) , the output will always be the same unless you change the seed or remove it.
+
+
 
 
 
@@ -17,6 +21,9 @@ Displays the frequent itemsets, along with their support values; how common they
 
 It shows that the Dining Table and Bean Bag appears in 50% of transactions, that is the highest transaction
 It shows that the Chair and Fireplace Mantel appears in 30% of transactions, that is the least transaction
+
+
+
 
 
 
