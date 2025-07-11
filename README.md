@@ -24,10 +24,13 @@ It shows that the Chair and Fireplace Mantel appears in 30% of transactions, tha
 #GENERATE RULES.
 ![alt text](image-3.png)
 antecedents- the items someone already bought.
+
 consequents- the item they’re likely to buy next.
 Customers who buy a chair are also very likely to get a TV stand, so maybe place them near each other in the store or offer them as a bundle
 
 Confidence(A→B)= Support(A) / Support(A∩B)
+
 ​Support(A ∩ B) = How many transactions include both A and B
+
 Support(A) = How many transactions include just A
 
